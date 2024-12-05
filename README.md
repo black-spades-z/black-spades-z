@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @black-spades-z
+- 👋 Hi, I’m Veerangana
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning c and java
 - 💞️ I’m looking to collaborate on ...
