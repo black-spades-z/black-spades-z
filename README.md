@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Veerangana
+- 👋 Hi, I’m Aigiri
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c and java
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , mail me on tanwarpurnima2613@gmail.com
 - 😄 Pronouns: she/her
